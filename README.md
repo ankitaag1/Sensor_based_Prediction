@@ -3,7 +3,7 @@ Code for the analysis done in the published paper 'Sensor-Based Prediction of Me
 
 In the notebooks, add the name of your datafile in .csv format in the line: df = pd.read_csv(" ") before running the code.
 
-This repository contains chronologically ordered sensor data and multiple modeling approaches for predicting student engagement during lectures.
+This repository contains chronologically ordered sensor data and multiple modeling approaches for predicting student's mental effort during different activities.
 
 📁 Data Format
 
