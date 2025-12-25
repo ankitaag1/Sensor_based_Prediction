@@ -51,7 +51,9 @@ Evaluation using RMSE, R², F1-score
 
 Suitable for baseline comparisons
 
-🔹 sensor_RNNLSTM.ipynb
+Additionally this notebook contain code for the Parameter estimates from the ordinal logistic regression model 
+
+🔹 sensor_RNN_LSTM.ipynb
 
 Implements deep learning sequence models:
 
@@ -67,8 +69,6 @@ Chronological train/test splits (10%–90%)
 
 Regression-based prediction
 
-Transition detection from predicted signals
-
 🔹 sensor_CNN.ipynb
 
 Implements 1D Convolutional Neural Networks (CNN) for sensor-based time-series modeling.
@@ -78,5 +78,3 @@ Key features:
 Temporal convolution over sensor windows
 
 Comparable evaluation metrics (RMSE, R², F1)
-
-Designed for efficient feature extraction from multivariate sensor data
