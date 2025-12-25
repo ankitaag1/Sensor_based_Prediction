@@ -33,7 +33,7 @@ HR – Heart rate
 The dataset is suitable for time-series regression and state transition analysis.
 
 📓 Notebooks Overview
-🔹 sensor_traditional.ipynb
+🔹 Sensor_traditional.ipynb
 
 Implements traditional machine learning models using time-ordered train/test splits:
 
@@ -53,7 +53,7 @@ Suitable for baseline comparisons
 
 Additionally this notebook contain code for the Parameter estimates from the ordinal logistic regression model 
 
-🔹 sensor_RNN_LSTM.ipynb
+🔹 Sensor_RNN_LSTM.ipynb
 
 Implements deep learning sequence models:
 
@@ -69,7 +69,7 @@ Chronological train/test splits (10%–90%)
 
 Regression-based prediction
 
-🔹 sensor_CNN.ipynb
+🔹 Sensor_CNN.ipynb
 
 Implements 1D Convolutional Neural Networks (CNN) for sensor-based time-series modeling.
 
